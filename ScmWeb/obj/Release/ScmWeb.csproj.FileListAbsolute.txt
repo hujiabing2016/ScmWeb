@@ -1,0 +1,6 @@
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\bin\jiaofu.dll.config
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\bin\jiaofu.dll
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\bin\jiaofu.pdb
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\obj\Release\ScmWeb.csprojResolveAssemblyReference.cache
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\obj\Release\jiaofu.dll
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\obj\Release\jiaofu.pdb

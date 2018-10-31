@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="ScmWeb.main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>经纪研发管理系统</title>
+    <link rel="Stylesheet" type="text/css" href="Styles/Site.css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 42px;
+        }
+    </style>
+
+    </head>
+<body style="background: white; width:100%; height: 100%;">
+    <form id="form1" runat="server">
+<table border="0" cellspacing="0" cellpadding="0" class="auto-style1">
+    <tr>
+        <td>
+           <div class="header1">
+           </div>
+        </td>
+    </tr>
+</table>
+    <table width="100%" style="margin-right: 0px">
+    <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%">
+               <asp:HyperLink ID="HyperLink10" runat="server" NavigateUrl="~/navigation.aspx" Font-Underline="False"
+                    Style=" font-size: large;" Font-Bold="True">首页</asp:HyperLink>
+                &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink11" runat="server" NavigateUrl="~/report/TaskTable.aspx"
+                    Font-Underline="False" Style="font-size: large;" Font-Bold="True">报表</asp:HyperLink>
+                &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink12" runat="server" NavigateUrl="~/Loginout.aspx" Font-Underline="False"
+                    Style="font-size: large;" Font-Bold="True">查询</asp:HyperLink>
+    </td>
+    <td style="text-align:right;width:10%">
+        <asp:Label ID="labuser" runat="server" ></asp:Label>
+    </td>
+    <td style="width:15%" align="right">
+        
+        </td>
+    </tr>
+    <tr>
+        <td style="width:15%"></td>
+        <td align="right" colspan="2"/>
+            <asp:HyperLink ID="HyperLink13" runat="server" NavigateUrl="~/users/changepassword.aspx">修改密码</asp:HyperLink>
+        &nbsp; |&nbsp;
+            <asp:HyperLink ID="HyperLink14" runat="server" NavigateUrl="~/users/loginout.aspx">注销</asp:HyperLink>
+        &nbsp; |&nbsp;
+            <asp:HyperLink ID="HyperLink15" runat="server">个人信息维护</asp:HyperLink>
+        <td style="width:15%">
+
+        </td>
+    </tr>
+    </table>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+ 
+        
+        </asp:ContentPlaceHolder>
+    </div>
+     <div class="footer">
+        <span style="font-size: 13px; font-weight: bold; color :White ">@Copy right 2018-2020</span><br />
+        <span style="font-size: 13px; font-weight: bold; color :White ">版权所有 违者必究</span>
+    </div>
+
+    </form>
+</body>
+</html>

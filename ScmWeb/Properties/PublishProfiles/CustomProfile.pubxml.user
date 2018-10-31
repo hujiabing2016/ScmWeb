@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>09/04/2017 20:34:46</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="bin/jiaofu.dll">
+      <publishTime>01/17/2018 11:27:35</publishTime>
+    </File>
+    <File Include="bin/jiaofu.pdb">
+      <publishTime>01/17/2018 11:27:35</publishTime>
+    </File>
+    <File Include="changepassword.aspx">
+      <publishTime>01/14/2018 12:15:43</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="images/background.gif">
+      <publishTime>01/09/2018 20:01:02</publishTime>
+    </File>
+    <File Include="images/bg.jpg">
+      <publishTime>01/09/2018 07:24:04</publishTime>
+    </File>
+    <File Include="images/explorelog.gif">
+      <publishTime>01/09/2018 23:24:41</publishTime>
+    </File>
+    <File Include="images/icon/Elearningicon.png">
+      <publishTime>01/13/2018 16:43:14</publishTime>
+    </File>
+    <File Include="images/icon/Jinkensicon.png">
+      <publishTime>01/13/2018 16:43:14</publishTime>
+    </File>
+    <File Include="images/icon/optionicon.png">
+      <publishTime>01/14/2018 10:06:11</publishTime>
+    </File>
+    <File Include="images/icon/PKGicon.png">
+      <publishTime>01/13/2018 16:43:40</publishTime>
+    </File>
+    <File Include="images/icon/TSicon.png">
+      <publishTime>01/13/2018 16:43:40</publishTime>
+    </File>
+    <File Include="images/icon/协同icon.png">
+      <publishTime>01/13/2018 16:43:40</publishTime>
+    </File>
+    <File Include="images/icon/堡垒机icon.png">
+      <publishTime>01/13/2018 16:43:14</publishTime>
+    </File>
+    <File Include="images/icon/恒生社区icon.png">
+      <publishTime>01/13/2018 16:43:14</publishTime>
+    </File>
+    <File Include="images/icon/青铜器icon.png">
+      <publishTime>01/13/2018 16:43:40</publishTime>
+    </File>
+    <File Include="images/img20.png">
+      <publishTime>01/09/2018 20:29:45</publishTime>
+    </File>
+    <File Include="images/index_12.gif">
+      <publishTime>01/09/2018 22:05:57</publishTime>
+    </File>
+    <File Include="images/index_19.gif">
+      <publishTime>01/09/2018 22:09:45</publishTime>
+    </File>
+    <File Include="images/top.jpg">
+      <publishTime>01/09/2018 20:13:45</publishTime>
+    </File>
+    <File Include="images/标识与恒生电子组合.png">
+      <publishTime>01/09/2018 20:35:12</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>01/13/2018 16:10:41</publishTime>
+    </File>
+    <File Include="loginout.aspx">
+      <publishTime>01/14/2018 10:29:48</publishTime>
+    </File>
+    <File Include="main.Master">
+      <publishTime>01/14/2018 12:28:10</publishTime>
+    </File>
+    <File Include="navigation.aspx">
+      <publishTime>01/14/2018 21:02:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>09/04/2017 20:34:47</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>01/14/2018 10:37:58</publishTime>
+    </File>
+    <File Include="TaskTable.aspx">
+      <publishTime>01/14/2018 20:49:11</publishTime>
+    </File>
+    <File Include="UserControls/search.ascx">
+      <publishTime>01/09/2018 22:03:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/17/2018 11:27:37</publishTime>
+    </File>
+    <File Include="说明.txt">
+      <publishTime>01/15/2018 08:46:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

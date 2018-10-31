@@ -1,0 +1,12 @@
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\bin\jiaofu.dll.config
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\bin\jiaofu.dll
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\bin\jiaofu.pdb
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\obj\Debug\ScmWeb.csprojResolveAssemblyReference.cache
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\obj\Debug\jiaofu.dll
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\jiaofu\jiaofu\obj\Debug\jiaofu.pdb
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\ScmWeb\ScmWeb\obj\Debug\ScmWeb.csprojResolveAssemblyReference.cache
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\ScmWeb\ScmWeb\obj\Debug\jiaofu.dll
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\ScmWeb\ScmWeb\obj\Debug\jiaofu.pdb
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\ScmWeb\ScmWeb\bin\jiaofu.dll.config
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\ScmWeb\ScmWeb\bin\jiaofu.dll
+F:\personal\雨中漫步\ASP.NET\workspace\VS2010\ScmWeb\ScmWeb\bin\jiaofu.pdb
